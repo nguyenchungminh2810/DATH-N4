@@ -1,0 +1,324 @@
+CRITICAL - 2020-05-30 10:52:49 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 10:52:54 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'Trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('Trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 10:53:14 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 10:53:15 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:38 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:39 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:39 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:40 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:40 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:40 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:40 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:40 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:41 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:09:41 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^TrangChu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:16:50 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:16:54 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:16:55 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:16:56 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:16:56 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:16:57 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:08 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'TrangChu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('TrangChu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('TrangChu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:13 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:55 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:56 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:57 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:57 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:57 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:57 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:57 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:17:58 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:18:16 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:18:17 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:18:18 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:18:18 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:18:18 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-30 11:18:18 --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 425, Array)
+#1 C:\xampp\htdocs\gym\system\Router\Router.php(425): preg_match('#^trangchu)$#', 'trangchu', Array)
+#2 C:\xampp\htdocs\gym\system\Router\Router.php(174): CodeIgniter\Router\Router->checkRoutes('trangchu')
+#3 C:\xampp\htdocs\gym\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('trangchu')
+#4 C:\xampp\htdocs\gym\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\gym\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gym\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
